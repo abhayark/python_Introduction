@@ -1,7 +1,7 @@
 #Variables
 
 num = 10            #int
-per = 86.20         #float
+per = 85.60        #float
 name = "ark"        #string
 choice = True      #boolean
 
